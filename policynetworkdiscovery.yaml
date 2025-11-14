@@ -2,3 +2,8 @@ network_discovery:
   discovery_1:
       config:
         schedule: "* * * * *"
+common:
+  diode:
+    target: ${DIODE_TARGET}
+    client_id: ${DIODE_CLIENT_ID}
+    client_secret: ${DIODE_CLIENT_SECRET}
