@@ -1,4 +1,5 @@
 agent_selector_matches_all:
   selector:
   policies:
-    path: policynetworkdiscovery.yaml
+    policy_amanda:
+      path: policynetworkdiscovery.yaml
