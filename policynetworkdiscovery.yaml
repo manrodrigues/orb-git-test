@@ -1,4 +1,4 @@
 network_discovery:
-discovery_1:
-    config:
-      schedule: "* * * * *"
+  discovery_1:
+      config:
+        schedule: "* * * * *"
